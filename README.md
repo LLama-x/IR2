@@ -1,1 +1,1 @@
-# IR2
+# infinite-runner-game
